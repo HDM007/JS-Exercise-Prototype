@@ -114,10 +114,10 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1. Global Context - "this" will refer to the global object (aka the window), in global and in function.
+    2. Method Context - "this" will refer to the object it's built on 
+    3. Events - "this" is useful for binding a function the element that received an event (looking at you, React and HTML)
+    4. Explicit Binding - "this" can be used to manually bind functions + variables.
   */
   
   
