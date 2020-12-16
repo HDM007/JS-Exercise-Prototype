@@ -21,7 +21,7 @@ function Airplane(name) {
   
   
   /*
-  // 👇 COMPLETE YOUR WORK BELOW 👇
+  // Minor edit for initial commit.
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
   */
